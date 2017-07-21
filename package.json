@@ -1,0 +1,9 @@
+{
+  "name": "swagger-dev-env",
+  "version": "0.0.1",
+  "description": "Local swagger dev environment",
+  "main": "index.js",
+  "repository": "https://github.com/marcojahn/swagger-dev-env.git",
+  "author": "Marco Jahn <marco.jahn@gmail.com>",
+  "license": "MIT"
+}
